@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ExceptionsReview/ExceptionsReview.iml" filepath="$PROJECT_DIR$/ExceptionsReview/ExceptionsReview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ITP220_JavaGui.iml" filepath="$PROJECT_DIR$/ITP220_JavaGui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OO/OO.iml" filepath="$PROJECT_DIR$/OO/OO.iml" />
+    </modules>
+  </component>
+</project>
