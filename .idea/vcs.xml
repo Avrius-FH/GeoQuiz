@@ -2,8 +2,11 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Labs" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/OO_Lab" vcs="Git" />
-    <mapping directory="I:\ComputerScience\ITP220_JavaGui\Labs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ClassCodeAndSolutionLabs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RPNCalcDesktopGUi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/exceptions-lab-getting-gui" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gui-lab-getting-gui" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gui-lab-getting-gui2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/oo-lab-getting-gui" vcs="Git" />
   </component>
 </project>

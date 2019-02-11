@@ -2,9 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6300069c-129f-46d8-a92a-07b395f4f941" name="Default Changelist" comment="GIT GOING">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OO_Lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ExceptionsReview/FileException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExceptionsReview/src/ThrowException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/src/package1/ComponentPlay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/src/package1/FirstSwing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/src/package1/Grid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExceptionsReview/src/NumberExceptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/ExceptionsReview/src/NumberExceptions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labs/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labs/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labs/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labs/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OO/OO.iml" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/GUI.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OO/src/edu/vccs/email/flh250/lecture_01072019/Center.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OO/src/edu/vccs/email/flh250/lecture_01072019/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OO/src/edu/vccs/email/flh250/lecture_01072019/ColoredCircle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OO/src/edu/vccs/email/flh250/lecture_01072019/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OO/src/edu/vccs/email/flh250/lecture_01072019/ShapeDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OO/src/edu/vccs/email/flh250/lecture_01072019/Square.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui-lab-getting-gui/out/production/GUI-lab/edu/vccs/email/flh250/gui/lab/TestAddKey.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui-lab-getting-gui/sh.exe.stackdump" beforeDir="false" afterPath="$PROJECT_DIR$/gui-lab-getting-gui/sh.exe.stackdump" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui-lab-getting-gui2/out/production/GUI-lab/edu/vccs/email/flh250/gui/lab/TestAddKey.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui-lab-getting-gui2/sh.exe.stackdump" beforeDir="false" afterPath="$PROJECT_DIR$/gui-lab-getting-gui2/sh.exe.stackdump" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oo-lab-getting-gui/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/oo-lab-getting-gui/.idea/misc.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,93 +38,37 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/OO/src/edu/vccs/email/flh250/lecture_01072019/Circle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="53" selection-start-line="2" selection-start-column="53" selection-end-line="2" selection-end-column="53" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/OO/src/edu/vccs/email/flh250/lecture_01072019/Center.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/OO/src/edu/vccs/email/flh250/lecture_01072019/ColoredCircle.java">
+        <entry file="file://$PROJECT_DIR$/GUI/src/package1/FirstSwing.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="374">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
+              <caret line="23" column="46" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GUI/src/package1/ComponentPlay.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="901">
+              <caret line="53" selection-start-line="53" selection-end-line="53" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ExceptionsReview/src/FileException.java">
+        <entry file="file://$PROJECT_DIR$/GUI/src/package1/Grid.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+            <state relative-caret-position="374">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ExceptionsReview/src/NumberExceptions.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/asdf.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ExceptionsReview/ExceptionsReview.iml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/OO/src/edu/vccs/email/flh250/lecture_01072019/ShapeDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/OO/src/edu/vccs/email/flh250/lecture_01072019/Square.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/OO/src/edu/vccs/email/flh250/lecture_01072019/Shape.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -118,6 +84,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -133,13 +100,17 @@
         <option value="$PROJECT_DIR$/asdf.txt" />
         <option value="$PROJECT_DIR$/ExceptionsReview/src/FileException.java" />
         <option value="$PROJECT_DIR$/ExceptionsReview/src/NumberExceptions.java" />
+        <option value="$PROJECT_DIR$/ExceptionsReview/src/ThrowException.java" />
+        <option value="$PROJECT_DIR$/GUI/src/package1/FirstSwing.java" />
+        <option value="$PROJECT_DIR$/GUI/src/package1/Grid.java" />
+        <option value="$PROJECT_DIR$/GUI/src/package1/ComponentPlay.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="width" value="890" />
-    <option name="height" value="1030" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-9" />
+    <option name="width" value="905" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -147,6 +118,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -157,34 +129,22 @@
             <path>
               <item name="ITP220_JavaGui" type="b2602c69:ProjectViewProjectNode" />
               <item name="ITP220_JavaGui" type="462c0819:PsiDirectoryNode" />
-              <item name="ExceptionsReview" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ITP220_JavaGui" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ITP220_JavaGui" type="462c0819:PsiDirectoryNode" />
-              <item name="ExceptionsReview" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ITP220_JavaGui" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ITP220_JavaGui" type="462c0819:PsiDirectoryNode" />
-              <item name="OO" type="462c0819:PsiDirectoryNode" />
+              <item name="GUIAndroid" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547658713156" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549900845494" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -198,15 +158,67 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.ComponentPlay">
     <configuration default="true" type="Applet">
+      <option name="HEIGHT" value="0" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="WIDTH" value="0" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ComponentPlay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="package1.ComponentPlay" />
+      <module name="GUI" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="package1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="FileException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FileException" />
+      <module name="ExceptionsReview" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstSwing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="package1.FirstSwing" />
+      <module name="GUI" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="package1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Grid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="package1.Grid" />
+      <module name="GUI" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="package1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThrowException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThrowException" />
       <module name="ExceptionsReview" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -220,12 +232,14 @@
       </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="VM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration default="true" type="TestNG">
+      <option name="VM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <properties />
       <listeners />
@@ -244,6 +258,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ComponentPlay" />
+        <item itemvalue="Application.Grid" />
+        <item itemvalue="Application.FirstSwing" />
+        <item itemvalue="Application.ThrowException" />
         <item itemvalue="Application.FileException" />
       </list>
     </recent_temporary>
@@ -262,27 +280,26 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="7" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20537898" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24022005" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32922733" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3281075" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32922733" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -295,76 +312,106 @@
     </layout>
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/Lab" />
+      <path value="$PROJECT_DIR$/LabOO" />
+      <path value="$PROJECT_DIR$/Labs" />
+      <path value="$PROJECT_DIR$/OO_Lab" />
+      <path value="E:\ComputerScience\ITP220_JavaGui\oo-lab-getting-gui" />
+      <path value="I:\ComputerScience\ITP220_JavaGui\Labs" />
+    </ignored-roots>
     <MESSAGE value="GIT GOING" />
     <option name="LAST_COMMIT_MESSAGE" value="GIT GOING" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/OO/src/edu/vccs/email/flh250/lecture_01072019/Circle.java">
+    <entry file="file://$PROJECT_DIR$/asdf.txt" />
+    <entry file="file://$PROJECT_DIR$/OO/src/edu/vccs/email/flh250/lecture_01072019/Circle.java" />
+    <entry file="file://$PROJECT_DIR$/OO/src/edu/vccs/email/flh250/lecture_01072019/Shape.java" />
+    <entry file="file://$PROJECT_DIR$/OO/src/edu/vccs/email/flh250/lecture_01072019/Center.java" />
+    <entry file="file://$PROJECT_DIR$/OO/src/edu/vccs/email/flh250/lecture_01072019/ColoredCircle.java" />
+    <entry file="file://$PROJECT_DIR$/OO/src/edu/vccs/email/flh250/lecture_01072019/ShapeDemo.java" />
+    <entry file="file://$PROJECT_DIR$/OO/src/edu/vccs/email/flh250/lecture_01072019/Square.java" />
+    <entry file="file://$PROJECT_DIR$/Lab/src/edu/vccs/email/flh250/oo/lab/SomePeople.java" />
+    <entry file="file://$PROJECT_DIR$/Lab/src/edu/vccs/email/flh250/oo/lab/Student.java" />
+    <entry file="file://$PROJECT_DIR$/Lab/src/edu/vccs/email/flh250/oo/lab/Person.java" />
+    <entry file="file://$PROJECT_DIR$/Lab/src/edu/vccs/email/flh250/oo/lab/Instructor.java" />
+    <entry file="file://$PROJECT_DIR$/Lab/src/edu/vccs/email/flh250/oo/lab/CollegePerson.java" />
+    <entry file="file://$PROJECT_DIR$/LabOO/src/edu/vccs/email/oo/lab/Instructor.java" />
+    <entry file="file://$PROJECT_DIR$/out/production/ExceptionsReview/FileException.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="53" selection-start-line="2" selection-start-column="53" selection-end-line="2" selection-end-column="53" />
+        <state relative-caret-position="204">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OO/src/edu/vccs/email/flh250/lecture_01072019/Center.java">
+    <entry file="file://$PROJECT_DIR$/ExceptionsReview/src/FileException.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OO/src/edu/vccs/email/flh250/lecture_01072019/ShapeDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OO/src/edu/vccs/email/flh250/lecture_01072019/Square.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OO/src/edu/vccs/email/flh250/lecture_01072019/Shape.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OO/src/edu/vccs/email/flh250/lecture_01072019/ColoredCircle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/asdf.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ExceptionsReview/ExceptionsReview.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ExceptionsReview/src/NumberExceptions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="63">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ExceptionsReview/src/FileException.java">
+    <entry file="file://$PROJECT_DIR$/ExceptionsReview/src/NumberExceptions.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        <state relative-caret-position="521">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClassCodeAndSolutionLabs/Exceptions/src/edu/brcc/maxfieldj/lecture/FileExceptions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExceptionsReview/src/ThrowException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClassCodeAndSolutionLabs/Exceptions/src/edu/brcc/maxfieldj/lecture/NumberExceptions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUI/src/package1/FirstSwing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="23" column="46" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUI/src/package1/ComponentPlay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUI/src/package1/Grid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -411,7 +458,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>11</last-edited>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
